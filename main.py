@@ -5,3 +5,5 @@ def Solishtir(a,b):
         return a
     return b
 # ikki xil funksiya
+print(add(3,2))
+print("salom")
