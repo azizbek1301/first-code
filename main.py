@@ -4,3 +4,4 @@ def Solishtir(a,b):
     if a>b:
         return a
     return b
+# ikki xil funksiya
